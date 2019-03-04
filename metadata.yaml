@@ -1,0 +1,26 @@
+_repo: The-pathology-of-influenza_58960
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Wason, Isabel M.
+    gutenberg_agent_id: '50235'
+    url: http://www.gutenberg.org/2009/agents/50235
+  - agent_name: McNamara, Frank P.
+    gutenberg_agent_id: '50236'
+    url: http://www.gutenberg.org/2009/agents/50236
+  - agent_name: Winternitz, M. C.
+    gutenberg_agent_id: '50234'
+    url: http://www.gutenberg.org/2009/agents/50234
+description: ''
+gutenberg_issued: '2019-02-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '58960'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The pathology of influenza
+url: http://www.gutenberg.org/ebooks/58960
